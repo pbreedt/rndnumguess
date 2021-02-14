@@ -1,0 +1,4 @@
+github.com/pbreedt/stdio v0.0.0-20210213191834-cce7cf30087e h1:7OHrj0Zo3UKJdiVkmU76J+NMUDVH6LICJbBQ/wvQtpc=
+github.com/pbreedt/stdio v0.0.0-20210213191834-cce7cf30087e/go.mod h1:aTfG3eP5GT/bLyjoeMRDihqoKlHk3cbPA4ESHTEc+9s=
+github.com/pbreedt/stdio v1.0.0 h1:GUCJlhgiHW54xOlwkkAu4q5f3PrqRm7pfmz5jJD0X7c=
+github.com/pbreedt/stdio v1.0.0/go.mod h1:aTfG3eP5GT/bLyjoeMRDihqoKlHk3cbPA4ESHTEc+9s=
